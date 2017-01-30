@@ -1,8 +1,8 @@
 # README
 
-El poryecto se puede ver en vivo en la siguiente dirección http://ruby-cube-summation.herokuapp.com/
+The project can be found in the next link -> https://ruby-cube-summation.herokuapp.com
 
-#Estructura
+#Structure
 
 * app/controllers/cube_summation_controller -> es el controlador donde se encuentra la lógica que maneja la invocación de los calculos para la suma de los cubos. 
 
